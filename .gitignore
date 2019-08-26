@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+*.esm.json
+*.js
+*.js.map
+*.log
+node_modules
